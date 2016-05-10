@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Earthquakes Sample App
 //
-//  Created by Ali Afghah on 5/7/16.
 //  Copyright © 2016 Ali Afghah. All rights reserved.
 //
 

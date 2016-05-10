@@ -1,0 +1,6 @@
+framework module Pods_Earthquakes_Sample_App {
+  umbrella header "Pods-Earthquakes Sample App-umbrella.h"
+
+  export *
+  module * { export * }
+}
