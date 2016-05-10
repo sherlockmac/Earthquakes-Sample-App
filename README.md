@@ -9,7 +9,6 @@ The Task:
 
 ---
 
-This Project uses the following frameworks:
+This Project uses the following additional frameworks:
 * **Alamofire** to handle networking.
 * **SwiftyJSON** to parse JSON data.
-* **Google Maps iOS SDK** to show the items on Google Maps instead of the native Map framework.
