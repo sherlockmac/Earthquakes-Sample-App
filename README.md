@@ -17,8 +17,8 @@ This Project uses the following additional frameworks:
 
 ## Screenshots
 
-![List View](https://raw.githubusercontent.com/sherlockmac/Earthquakes-Sample-App/master/Simulator%20Screen%20Shot%20May%2010%2C%202016%2C%204.42.54%20PM.png "View as List" =320x)  
+![List View](https://raw.githubusercontent.com/sherlockmac/Earthquakes-Sample-App/master/Simulator%20Screen%20Shot%20May%2010%2C%202016%2C%204.42.54%20PM.png =320x568)  
 
-![Map View](https://raw.githubusercontent.com/sherlockmac/Earthquakes-Sample-App/master/Simulator%20Screen%20Shot%20May%2010%2C%202016%2C%204.43.22%20PM.png "View on Map" =320x)  
+![Map View](https://raw.githubusercontent.com/sherlockmac/Earthquakes-Sample-App/master/Simulator%20Screen%20Shot%20May%2010%2C%202016%2C%204.43.22%20PM.png =320x568)  
 
-![Map View Detail](https://raw.githubusercontent.com/sherlockmac/Earthquakes-Sample-App/master/Simulator%20Screen%20Shot%20May%2010%2C%202016%2C%204.44.07%20PM.png "View the annotation on Map" =320x)  
+![Map View Detail](https://raw.githubusercontent.com/sherlockmac/Earthquakes-Sample-App/master/Simulator%20Screen%20Shot%20May%2010%2C%202016%2C%204.44.07%20PM.png =320x568)  
